@@ -1,6 +1,6 @@
 ## Name : XXX
 
-* About throughputs , please record the Tokens / Sec of Eval Time ) 
+* About throughputs , please record the Tokens / Sec of Eval Time 
 
 ### Basic Challenge
 | Throughputs (Tokens/sec) | CPU      | GPU      | 
