@@ -1,5 +1,7 @@
 ## Name : XXX
 
+* About throughputs , please record the Tokens / Sec of Eval Time ) 
+
 ### Basic Challenge
 | Throughputs (Tokens/sec) | CPU      | GPU      | 
 | --------                 | -------- | -------- | 
@@ -24,7 +26,7 @@
 
 ### Advance Challenge
 
-| Throughputs (Tokens/sec) | Accuracy  |
+|                           | Accuracy  |
 | --------                 | --------  |
 | tinyllama-1.1b-chat-v0.3.Q4_K_M.gguf | x/10     |
 | TinyLlama-1.1B-Chat-v1.0-f16         | x/10     |
